@@ -1,0 +1,4 @@
+name: Survival
+version: @version@
+author: Valente Esteban
+main: me.valentesteban.survival.Survival
